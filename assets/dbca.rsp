@@ -522,7 +522,7 @@ STORAGETYPE=FS
 # Default value : "US7ASCII"
 # Mandatory     : NO
 #-----------------------------------------------------------------------------
-CHARACTERSET="WE8MSWIN1252"
+CHARACTERSET="ALT32UTF8"
 
 #-----------------------------------------------------------------------------
 # Name          : NATIONALCHARACTERSET
